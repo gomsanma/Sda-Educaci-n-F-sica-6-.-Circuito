@@ -1,0 +1,960 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202605101851524UZGP5</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260510185152H3WCVS</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Circuito de condición física y hábitos saludables</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Situación de aprendizaje para 6º de Educación Primaria en el área de Educación Física</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Marina Gómez Sánchez</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Situación de aprendizaje dirigida al alumnado de 6º de Educación Primaria centrada en el trabajo de la condición física y los hábitos saludables mediante metodologías activas y el uso responsable de herramientas digitales.
+
+La propuesta se organiza a través de un circuito por estaciones en el área de Educación Física, integrando recursos digitales, trabajo cooperativo, aula invertida y diferentes instrumentos de evaluación para favorecer la participación activa y el aprendizaje significativo del alumnado.
+</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778422433867</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-1778422525948-k0x0hzk30</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Inicio</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Inicio</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778422525948-k0x0hzk30</odePageId>
+      <odeBlockId>block-1778422709495-3llhqx821</odeBlockId>
+      <blockName>Circuito de condición física y hábitos saludables.</blockName>
+      <iconName>sport</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778422525948-k0x0hzk30</odePageId>
+          <odeBlockId>block-1778422709495-3llhqx821</odeBlockId>
+          <odeIdeviceId>idevice-1778422709492-jbqmqjnfo</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Bienvenidos a esta situación de aprendizaje dirigida al alumnado de 6º de Educación Primaria.</p>
+<p>A través de diferentes actividades, recursos digitales y un circuito por estaciones, trabajaremos la condición física, los hábitos saludables y el trabajo cooperativo de una forma activa y motivadora.<br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778422709492-jbqmqjnfo","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Bienvenidos a esta situación de aprendizaje dirigida al alumnado de 6º de Educación Primaria.</p>\n<p>A través de diferentes actividades, recursos digitales y un circuito por estaciones, trabajaremos la condición física, los hábitos saludables y el trabajo cooperativo de una forma activa y motivadora.<br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778422538978-l0auadb5a</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación del proyecto</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación del proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778422538978-l0auadb5a</odePageId>
+      <odeBlockId>block-1778423124231-wcvddpnkc</odeBlockId>
+      <blockName>Presentación del proyecto</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778422538978-l0auadb5a</odePageId>
+          <odeBlockId>block-1778423124231-wcvddpnkc</odeBlockId>
+          <odeIdeviceId>idevice-1778423124228-vcvkt0tf6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Este proyecto se desarrolla en el área de Educación Física para el alumnado de 6º de Educación Primaria y está centrado en el trabajo de la condición física y los hábitos saludables.</p>
+<p style="text-align: justify;">La propuesta se organiza a través de una situación de aprendizaje basada en un circuito por estaciones, donde el alumnado trabajará de forma activa diferentes capacidades físicas como la resistencia, la fuerza, la velocidad y la flexibilidad.</p>
+<p style="text-align: justify;">Se incorpora una metodología activa basada en el aprendizaje cooperativo, el uso de recursos digitales y el modelo de aula invertida, fomentando la autonomía del alumnado y su participación en el proceso de aprendizaje.</p>
+<p>Además, se integran herramientas digitales como Padlet, vídeos educativos y Google Classroom, con el objetivo de favorecer un aprendizaje más motivador, significativo y adaptado a las características del grupo.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778423124228-vcvkt0tf6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Este proyecto se desarrolla en el área de Educación Física para el alumnado de 6º de Educación Primaria y está centrado en el trabajo de la condición física y los hábitos saludables.</p>\n<p style=\"text-align: justify;\">La propuesta se organiza a través de una situación de aprendizaje basada en un circuito por estaciones, donde el alumnado trabajará de forma activa diferentes capacidades físicas como la resistencia, la fuerza, la velocidad y la flexibilidad.</p>\n<p style=\"text-align: justify;\">Se incorpora una metodología activa basada en el aprendizaje cooperativo, el uso de recursos digitales y el modelo de aula invertida, fomentando la autonomía del alumnado y su participación en el proceso de aprendizaje.</p>\n<p>Además, se integran herramientas digitales como Padlet, vídeos educativos y Google Classroom, con el objetivo de favorecer un aprendizaje más motivador, significativo y adaptado a las características del grupo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778422549667-45t50ocxw</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Información para el alumnado</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Información para el alumnado</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778422549667-45t50ocxw</odePageId>
+      <odeBlockId>block-1778423360906-14zqofpbi</odeBlockId>
+      <blockName>Información para el alumnado: uso responsable de la tecnología</blockName>
+      <iconName>competencies</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778422549667-45t50ocxw</odePageId>
+          <odeBlockId>block-1778423360906-14zqofpbi</odeBlockId>
+          <odeIdeviceId>idevice-1778423360903-pmv9rck82</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">En esta Situación de Aprendizaje utilizaremos diferentes herramientas digitales como Padlet y Google Classroom para apoyar el proceso de enseñanza-aprendizaje.</p>
+<p style="text-align: justify;">El uso de estas herramientas se realizará siempre de forma supervisada y con fines educativos, respetando las normas del centro y garantizando la protección de datos personales del alumnado.</p>
+<p style="text-align: justify;">No se compartirán datos privados en plataformas abiertas y se fomentará un uso responsable, seguro y respetuoso de la tecnología.</p>
+<p style="text-align: justify;">Asimismo, se trabajará la importancia de la huella digital, el respeto en entornos virtuales y el uso adecuado de dispositivos digitales dentro y fuera del aula.</p>
+<p style="text-align: justify;">El alumnado utilizará la tecnología como herramienta de aprendizaje, evitando su uso inadecuado o fuera del contexto educativo.</p>
+<p style="text-align: justify;">Como apoyo a estas normas, se incluye un cartel informativo elaborado previamente por el docente sobre el uso responsable de la tecnología y la protección de datos, que estará disponible para el alumnado durante toda la situación de aprendizaje.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778423360903-pmv9rck82","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">En esta Situación de Aprendizaje utilizaremos diferentes herramientas digitales como Padlet y Google Classroom para apoyar el proceso de enseñanza-aprendizaje.</p>\n<p style=\"text-align: justify;\">El uso de estas herramientas se realizará siempre de forma supervisada y con fines educativos, respetando las normas del centro y garantizando la protección de datos personales del alumnado.</p>\n<p style=\"text-align: justify;\">No se compartirán datos privados en plataformas abiertas y se fomentará un uso responsable, seguro y respetuoso de la tecnología.</p>\n<p style=\"text-align: justify;\">Asimismo, se trabajará la importancia de la huella digital, el respeto en entornos virtuales y el uso adecuado de dispositivos digitales dentro y fuera del aula.</p>\n<p style=\"text-align: justify;\">El alumnado utilizará la tecnología como herramienta de aprendizaje, evitando su uso inadecuado o fuera del contexto educativo.</p>\n<p style=\"text-align: justify;\">Como apoyo a estas normas, se incluye un cartel informativo elaborado previamente por el docente sobre el uso responsable de la tecnología y la protección de datos, que estará disponible para el alumnado durante toda la situación de aprendizaje.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778422549667-45t50ocxw</odePageId>
+      <odeBlockId>block-1778424569707-2cbz12wcx</odeBlockId>
+      <blockName>Uso responsable de la tecnología y protección de datos</blockName>
+      <iconName>geography</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778422549667-45t50ocxw</odePageId>
+          <odeBlockId>block-1778424569707-2cbz12wcx</odeBlockId>
+          <odeIdeviceId>idevice-1778424569704-pkkr1rz1t</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778424569704-pkkr1rz1t" title="" href="{{context_path}}/content/resources/b9b11cc6-e3d5-432b-539e-cd364f6d2111.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/b9b11cc6-e3d5-432b-539e-cd364f6d2111.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778424569704-pkkr1rz1t","img_0":{"img":"{{context_path}}/content/resources/b9b11cc6-e3d5-432b-539e-cd364f6d2111.jpg","thumbnail":"{{context_path}}/content/resources/b9b11cc6-e3d5-432b-539e-cd364f6d2111.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778422549667-45t50ocxw</odePageId>
+      <odeBlockId>block-1778424719633-aip3vtk1x</odeBlockId>
+      <blockName>Uso responsable de la tecnología y protección de datos</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778422549667-45t50ocxw</odePageId>
+          <odeBlockId>block-1778424719633-aip3vtk1x</odeBlockId>
+          <odeIdeviceId>idevice-1778424719631-z9jlk862r</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Este cartel recoge las normas básicas para el uso responsable de la tecnología durante la situación de aprendizaje.</p>
+<p>Su finalidad es ayudar al alumnado a comprender la importancia de proteger los datos personales, respetar las normas de uso de los dispositivos digitales y mantener una actitud segura y responsable en entornos digitales.</p>
+<p>Estará visible durante todo el desarrollo del proyecto como apoyo visual para el alumnado.<br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778424719631-z9jlk862r","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este cartel recoge las normas básicas para el uso responsable de la tecnología durante la situación de aprendizaje.</p>\n<p>Su finalidad es ayudar al alumnado a comprender la importancia de proteger los datos personales, respetar las normas de uso de los dispositivos digitales y mantener una actitud segura y responsable en entornos digitales.</p>\n<p>Estará visible durante todo el desarrollo del proyecto como apoyo visual para el alumnado.<br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778422559378-fbtgeh27g</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Producto final</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778422559378-fbtgeh27g</odePageId>
+      <odeBlockId>block-1778424985895-ovn8ef2oj</odeBlockId>
+      <blockName>Producto final del alumnado</blockName>
+      <iconName>collaborative</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778422559378-fbtgeh27g</odePageId>
+          <odeBlockId>block-1778424985895-ovn8ef2oj</odeBlockId>
+          <odeIdeviceId>idevice-1778424985893-twcrsrmht</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p></p>
+<p>El producto final de esta situación de aprendizaje consistirá en la participación activa del alumnado en un circuito por estaciones de condición física, así como en la realización de una reflexión final sobre su experiencia de aprendizaje.</p>
+<p>El alumnado trabajará en grupos, realizando diferentes tareas motrices relacionadas con la resistencia, la fuerza, la velocidad y la flexibilidad, aplicando los conocimientos previos adquiridos mediante el modelo de aula invertida.</p>
+<p>Al finalizar la situación de aprendizaje, el alumnado elaborará una breve reflexión sobre su participación, sensaciones y aprendizajes, que se compartirá en la plataforma digital utilizada en el aula, classroom.</p>
+<p>Este proceso permitirá integrar el trabajo físico con el uso responsable de la tecnología, fomentando la autonomía, la cooperación y la adquisición de hábitos saludables.</p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778424985893-twcrsrmht","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p></p>\n<p>El producto final de esta situación de aprendizaje consistirá en la participación activa del alumnado en un circuito por estaciones de condición física, así como en la realización de una reflexión final sobre su experiencia de aprendizaje.</p>\n<p>El alumnado trabajará en grupos, realizando diferentes tareas motrices relacionadas con la resistencia, la fuerza, la velocidad y la flexibilidad, aplicando los conocimientos previos adquiridos mediante el modelo de aula invertida.</p>\n<p>Al finalizar la situación de aprendizaje, el alumnado elaborará una breve reflexión sobre su participación, sensaciones y aprendizajes, que se compartirá en la plataforma digital utilizada en el aula, classroom.</p>\n<p>Este proceso permitirá integrar el trabajo físico con el uso responsable de la tecnología, fomentando la autonomía, la cooperación y la adquisición de hábitos saludables.</p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778422566890-64az2qlsg</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Recursos para el alumnado</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos para el alumnado</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778422566890-64az2qlsg</odePageId>
+      <odeBlockId>block-1778425410657-ibw60ybo0</odeBlockId>
+      <blockName>Recursos para el alumnado</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778422566890-64az2qlsg</odePageId>
+          <odeBlockId>block-1778425410657-ibw60ybo0</odeBlockId>
+          <odeIdeviceId>idevice-1778425410655-103wejav3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El alumnado contará con un Padlet como recurso principal de preparación previa para la situación de aprendizaje.</p>
+<p>En este Padlet se incluyen vídeos explicativos y orientaciones sobre las diferentes tareas motrices (resistencia, fuerza, velocidad, flexibilidad, calentamiento y estiramientos), que el alumnado deberá visualizar en casa antes de la sesión práctica.</p>
+<p>Acceso al Padlet:<br />https://padlet.com/gomsanma/circuito-de-condicion-fisica-6-primaria-wmz90szjurlqwpy3</p>
+<p>El objetivo de esta fase previa es aplicar un modelo de aula invertida, de forma que el alumnado llegue al circuito por estaciones con una base previa de conocimientos.</p>
+<p>Durante la sesión práctica, estos contenidos se aplicarán en el desarrollo de las diferentes estaciones de trabajo.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778425410655-103wejav3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El alumnado contará con un Padlet como recurso principal de preparación previa para la situación de aprendizaje.</p>\n<p>En este Padlet se incluyen vídeos explicativos y orientaciones sobre las diferentes tareas motrices (resistencia, fuerza, velocidad, flexibilidad, calentamiento y estiramientos), que el alumnado deberá visualizar en casa antes de la sesión práctica.</p>\n<p>Acceso al Padlet:<br />https://padlet.com/gomsanma/circuito-de-condicion-fisica-6-primaria-wmz90szjurlqwpy3</p>\n<p>El objetivo de esta fase previa es aplicar un modelo de aula invertida, de forma que el alumnado llegue al circuito por estaciones con una base previa de conocimientos.</p>\n<p>Durante la sesión práctica, estos contenidos se aplicarán en el desarrollo de las diferentes estaciones de trabajo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778422578376-yi29srmyb</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Recursos para el profesorado</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos para el profesorado</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778422578376-yi29srmyb</odePageId>
+      <odeBlockId>block-1778426308228-5lypu7770</odeBlockId>
+      <blockName>Recursos del profesorado</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778422578376-yi29srmyb</odePageId>
+          <odeBlockId>block-1778426308228-5lypu7770</odeBlockId>
+          <odeIdeviceId>idevice-1778426308226-os10ny28v</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para el diseño y desarrollo de esta situación de aprendizaje se han utilizado diferentes herramientas digitales que facilitan la planificación, creación de materiales y organización de las actividades.</p>
+<p>Entre ellas destaca Canva, utilizada para la creación de recursos visuales como la línea temporal y materiales de apoyo al alumnado, debido a su facilidad de uso y su versatilidad para el diseño educativo.</p>
+<p>También se han empleado herramientas como eXeLearning para la elaboración del recurso educativo digital principal, así como Padlet para la organización y curación de contenidos destinados al alumnado.</p>
+<p>Estas herramientas permiten integrar la tecnología de forma funcional en el proceso de enseñanza, favoreciendo la organización de los recursos, la accesibilidad y la planificación de metodologías activas como el aula invertida.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778426308226-os10ny28v","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para el diseño y desarrollo de esta situación de aprendizaje se han utilizado diferentes herramientas digitales que facilitan la planificación, creación de materiales y organización de las actividades.</p>\n<p>Entre ellas destaca Canva, utilizada para la creación de recursos visuales como la línea temporal y materiales de apoyo al alumnado, debido a su facilidad de uso y su versatilidad para el diseño educativo.</p>\n<p>También se han empleado herramientas como eXeLearning para la elaboración del recurso educativo digital principal, así como Padlet para la organización y curación de contenidos destinados al alumnado.</p>\n<p>Estas herramientas permiten integrar la tecnología de forma funcional en el proceso de enseñanza, favoreciendo la organización de los recursos, la accesibilidad y la planificación de metodologías activas como el aula invertida.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778422578376-yi29srmyb</odePageId>
+      <odeBlockId>block-1778427236423-wzw3313b7</odeBlockId>
+      <blockName>Hrramientas Digitales para el aula de E.F.</blockName>
+      <iconName>geography</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778422578376-yi29srmyb</odePageId>
+          <odeBlockId>block-1778427236423-wzw3313b7</odeBlockId>
+          <odeIdeviceId>idevice-1778427236421-ymy7hxy6e</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778427236421-ymy7hxy6e" title="" href="{{context_path}}/content/resources/a4b3e9c0-e99d-c433-8e79-a674360f12b5.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/a4b3e9c0-e99d-c433-8e79-a674360f12b5.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778427236421-ymy7hxy6e","img_1":{"img":"{{context_path}}/content/resources/a4b3e9c0-e99d-c433-8e79-a674360f12b5.jpg","thumbnail":"{{context_path}}/content/resources/a4b3e9c0-e99d-c433-8e79-a674360f12b5.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778422578376-yi29srmyb</odePageId>
+      <odeBlockId>block-1778427304416-8hc72bjy5</odeBlockId>
+      <blockName>Explicación de la imagen</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778422578376-yi29srmyb</odePageId>
+          <odeBlockId>block-1778427304416-8hc72bjy5</odeBlockId>
+          <odeIdeviceId>idevice-1778427304415-w3thmanal</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Este recurso se ha elaborado utilizando Canva. La recopilación incluye diferentes aplicaciones y herramientas digitales que pueden ser útiles en el área de Educación Física, especialmente para la organización del aula, la creación de recursos y el desarrollo de actividades motivadoras.</p>
+<p>Aunque están orientadas principalmente a esta situación de aprendizaje, muchas de estas herramientas pueden ser utilizadas también en otras áreas del currículo, favoreciendo un uso flexible y transversal de la tecnología en el centro educativo.</p>
+<p>Acceso al recurso:<br />https://canva.link/6dbbezia3e0rod6</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778427304415-w3thmanal","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este recurso se ha elaborado utilizando Canva. La recopilación incluye diferentes aplicaciones y herramientas digitales que pueden ser útiles en el área de Educación Física, especialmente para la organización del aula, la creación de recursos y el desarrollo de actividades motivadoras.</p>\n<p>Aunque están orientadas principalmente a esta situación de aprendizaje, muchas de estas herramientas pueden ser utilizadas también en otras áreas del currículo, favoreciendo un uso flexible y transversal de la tecnología en el centro educativo.</p>\n<p>Acceso al recurso:<br />https://canva.link/6dbbezia3e0rod6</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778422591588-y56gtdwmi</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Línea temporal</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778422591588-y56gtdwmi</odePageId>
+      <odeBlockId>block-1778427974849-j1o7pitox</odeBlockId>
+      <blockName>Línea temporal</blockName>
+      <iconName>chrono</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778422591588-y56gtdwmi</odePageId>
+          <odeBlockId>block-1778427974849-j1o7pitox</odeBlockId>
+          <odeIdeviceId>idevice-1778427974848-k1whsusyk</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778427974848-k1whsusyk" title="" href="{{context_path}}/content/resources/Vertical Infographic Fitness Learning Timeline.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Vertical Infographic Fitness Learning Timeline.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778427974848-k1whsusyk","img_0":{"img":"{{context_path}}/content/resources/Vertical Infographic Fitness Learning Timeline.jpg","thumbnail":"{{context_path}}/content/resources/Vertical Infographic Fitness Learning Timeline.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778422591588-y56gtdwmi</odePageId>
+      <odeBlockId>block-1778428017337-t4wd4zwm6</odeBlockId>
+      <blockName>Línea temporal</blockName>
+      <iconName>chrono</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778422591588-y56gtdwmi</odePageId>
+          <odeBlockId>block-1778428017337-t4wd4zwm6</odeBlockId>
+          <odeIdeviceId>idevice-1778428017336-i1nt5q4rn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta línea temporal organiza de forma visual las distintas fases de la situación de aprendizaje, incluyendo las sesiones en el aula, el trabajo en casa mediante aula invertida, el circuito por estaciones y la reflexión final del alumnado.</p>
+<p>Enlace de Canva: https://canva.link/6dbbezia3e0rod6</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778428017336-i1nt5q4rn","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta línea temporal organiza de forma visual las distintas fases de la situación de aprendizaje, incluyendo las sesiones en el aula, el trabajo en casa mediante aula invertida, el circuito por estaciones y la reflexión final del alumnado.</p>\n<p>Enlace de Canva: https://canva.link/6dbbezia3e0rod6</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778422601444-zonnyrepj</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778422601444-zonnyrepj</odePageId>
+      <odeBlockId>block-1778428160778-dvltn5ea7</odeBlockId>
+      <blockName>Guía didáctica</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778422601444-zonnyrepj</odePageId>
+          <odeBlockId>block-1778428160778-dvltn5ea7</odeBlockId>
+          <odeIdeviceId>idevice-1778428160776-nicjy5l44</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Guía didáctica donde se relacionan las tareas del proyecto con los criterios de evaluación, agrupamientos, tiempos y herramientas digitales utilizadas.<br /></p>
+<p>Enlace a Google Drive: https://docs.google.com/document/d/1JICBbmUb780gu6sZRldkw0U6hk3fyxs7WIdIckTZiv4/edit?usp=sharing</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778428160776-nicjy5l44","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Guía didáctica donde se relacionan las tareas del proyecto con los criterios de evaluación, agrupamientos, tiempos y herramientas digitales utilizadas.<br /></p>\n<p>Enlace a Google Drive: https://docs.google.com/document/d/1JICBbmUb780gu6sZRldkw0U6hk3fyxs7WIdIckTZiv4/edit?usp=sharing</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778422610853-scie9jxya</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Evaluación</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778422610853-scie9jxya</odePageId>
+      <odeBlockId>block-1778428461759-5iwnah6tw</odeBlockId>
+      <blockName>Evaluación del aprendizaje</blockName>
+      <iconName>objectives</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778422610853-scie9jxya</odePageId>
+          <odeBlockId>block-1778428461759-5iwnah6tw</odeBlockId>
+          <odeIdeviceId>idevice-1778428461757-yzfv4qlld</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">La evaluación de esta situación de aprendizaje se plantea como un proceso continuo, formativo y global, centrado en la mejora del aprendizaje del alumnado más que en la calificación final.</p>
+<p style="text-align: justify;">Se han utilizado diferentes instrumentos de evaluación para recoger información desde distintos momentos del proceso:</p>
+<p style="text-align: justify;"><strong>Una rúbrica</strong>, utilizada principalmente durante el desarrollo del circuito por estaciones y en la reflexión final, para valorar aspectos relacionados con los hábitos saludables, la seguridad, el control corporal, la participación y la convivencia.</p>
+<p style="text-align: justify;"><strong>Una lista de cotejo</strong>, aplicada mediante observación directa durante las sesiones prácticas, para registrar la participación, el respeto de normas, el uso del material, la colaboración y la actitud del alumnado.</p>
+<p style="text-align: justify;"><strong>Una diana de autoevaluación</strong>, que permite al alumnado reflexionar sobre su implicación, su aprendizaje y su evolución durante la situación de aprendizaje.</p>
+<p style="text-align: justify;">La combinación de estos instrumentos permite obtener una visión más completa del proceso de enseñanza-aprendizaje, favoreciendo la retroalimentación constante y la toma de decisiones para ajustar la intervención docente en caso necesario.</p>
+<p style="text-align: justify;">Además, los resultados obtenidos no solo se utilizan para calificar, sino también para detectar dificultades, reforzar aprendizajes y fomentar la reflexión del propio alumnado sobre su progreso.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778428461757-yzfv4qlld","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">La evaluación de esta situación de aprendizaje se plantea como un proceso continuo, formativo y global, centrado en la mejora del aprendizaje del alumnado más que en la calificación final.</p>\n<p style=\"text-align: justify;\">Se han utilizado diferentes instrumentos de evaluación para recoger información desde distintos momentos del proceso:</p>\n<p style=\"text-align: justify;\"><strong>Una rúbrica</strong>, utilizada principalmente durante el desarrollo del circuito por estaciones y en la reflexión final, para valorar aspectos relacionados con los hábitos saludables, la seguridad, el control corporal, la participación y la convivencia.</p>\n<p style=\"text-align: justify;\"><strong>Una lista de cotejo</strong>, aplicada mediante observación directa durante las sesiones prácticas, para registrar la participación, el respeto de normas, el uso del material, la colaboración y la actitud del alumnado.</p>\n<p style=\"text-align: justify;\"><strong>Una diana de autoevaluación</strong>, que permite al alumnado reflexionar sobre su implicación, su aprendizaje y su evolución durante la situación de aprendizaje.</p>\n<p style=\"text-align: justify;\">La combinación de estos instrumentos permite obtener una visión más completa del proceso de enseñanza-aprendizaje, favoreciendo la retroalimentación constante y la toma de decisiones para ajustar la intervención docente en caso necesario.</p>\n<p style=\"text-align: justify;\">Además, los resultados obtenidos no solo se utilizan para calificar, sino también para detectar dificultades, reforzar aprendizajes y fomentar la reflexión del propio alumnado sobre su progreso.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778422620708-6w5je41ma</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778422620708-6w5je41ma</odePageId>
+      <odeBlockId>block-1778428880789-qnzj3bo1c</odeBlockId>
+      <blockName>Créditos</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778422620708-6w5je41ma</odePageId>
+          <odeBlockId>block-1778428880789-qnzj3bo1c</odeBlockId>
+          <odeIdeviceId>idevice-1778428880787-h4qt09ssr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Autoría:</strong><br />Situación de aprendizaje diseñada por Marina Gómez Sánchez, docente del área de Educación Física en 6º de Educación Primaria.</p>
+<p><strong>Descripción:</strong><br />Proyecto educativo centrado en la condición física y los hábitos saludables, desarrollado mediante el circuito por estaciones y el uso de metodologías activas como el aula invertida.</p>
+<p><strong>Herramientas utilizadas:</strong><br />eXeLearning, Canva, Padlet y otras herramientas digitales aplicadas a la creación de recursos educativos.</p>
+<p><strong>Licencia:</strong><br />Creative Commons: Reconocimiento - Compartir Igual 4.0 Internacional (CC BY-SA 4.0)</p>
+<p><strong>Descarga del material editable:</strong><br />Se facilita el acceso al archivo editable para su reutilización y adaptación en otros contextos educativos.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778428880787-h4qt09ssr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Autoría:</strong><br />Situación de aprendizaje diseñada por Marina Gómez Sánchez, docente del área de Educación Física en 6º de Educación Primaria.</p>\n<p><strong>Descripción:</strong><br />Proyecto educativo centrado en la condición física y los hábitos saludables, desarrollado mediante el circuito por estaciones y el uso de metodologías activas como el aula invertida.</p>\n<p><strong>Herramientas utilizadas:</strong><br />eXeLearning, Canva, Padlet y otras herramientas digitales aplicadas a la creación de recursos educativos.</p>\n<p><strong>Licencia:</strong><br />Creative Commons: Reconocimiento - Compartir Igual 4.0 Internacional (CC BY-SA 4.0)</p>\n<p><strong>Descarga del material editable:</strong><br />Se facilita el acceso al archivo editable para su reutilización y adaptación en otros contextos educativos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
